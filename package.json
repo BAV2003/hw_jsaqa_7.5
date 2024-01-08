@@ -1,0 +1,21 @@
+{
+  "name": "hw_jsaqa_7.5",
+  "version": "1.0.0",
+  "description": "Tests with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cucumber": "cucumber-js"
+  },
+  "keywords": [
+    "Puppeteer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.0",
+    "cucumber": "^9.5.1-rc.0",
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^9.0.2"
+  }
+}
